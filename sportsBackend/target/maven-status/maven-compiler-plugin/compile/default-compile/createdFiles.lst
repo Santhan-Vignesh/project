@@ -1,0 +1,10 @@
+com\Sports\Backend\BackendApplication.class
+com\Sports\Backend\Repository\UserRepository.class
+com\Sports\Backend\Utility\JwtUtil.class
+com\Sports\Backend\Controller\AuthController.class
+com\Sports\Backend\Service\AuthService.class
+com\Sports\Backend\Model\User.class
+com\Sports\Backend\Config\SecurityConfig.class
+com\Sports\Backend\Controller\AuthRequest.class
+com\Sports\Backend\Utility\JwtFilter.class
+com\Sports\Backend\Model\Role.class
